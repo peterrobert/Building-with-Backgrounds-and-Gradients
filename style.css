@@ -157,7 +157,50 @@ a{
     padding-right: 2px;
    width: 25%;
 }
+
 .footer-images li img{
     width: 100%;
     height: 190px;
+}
+/*==== footer details  =====*/
+.footer-details{
+
+    display: flex;
+    width: 100%;
+    
+}
+
+.shop-online {
+   padding-left: 100px;
+    width: 50%;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.footer-navigation{
+
+    width: 50%;
+}
+.footer-navigation ul{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
+
+.footer-navigation a{
+    color: blue;
+    text-transform: capitalize;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-right: 1px solid #000;
+    font-size: 12px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.footer-navigation img{
+
+    padding-left: 4px;
+    padding-right: 4px;
 }

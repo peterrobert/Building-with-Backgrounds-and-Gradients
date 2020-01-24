@@ -28,7 +28,7 @@ You can also open it on your favorite code editor and make changes as you wish.
 
 ## Authors
 
-👤 **Author1**
+👤 **peter robert**
 
 - Github: [@peterrobert](https://github.com/peterrobert)
 - Twitter: [@ptahwambui93](https://twitter.com/Ptahwambui93)

@@ -1,23 +1,71 @@
-# Apple website Clone microverse project.
+# Building with backgrounds and gradients microverse project.
 
----
+> This is a clone of apples inc web page. 
 
-## About project.
+![screenshot](images/screenshot.png)
 
-This is the fourth project on Html Css in the microverse Curriculum. 
+The project is created using flex box.
 
-## Built With.
+## Built With
 
-This is a simple project built only in html and plain css without any third party libraries such as bootstrap.
+- Html Css,
+- font-awesome,
 
-## View the online version
+## Live Demo
 
-<https://rawcdn.githack.com/peterrobert/Building-with-Backgrounds-and-Gradients/7ead3c77baa5586668696d4ceee906d9bfd61b88/index.html>
+[Live Demo Link](https://rawcdn.githack.com/peterrobert/Building-with-Backgrounds-and-Gradients/7ead3c77baa5586668696d4ceee906d9bfd61b88/index.html)
 
-## Licence.
 
-Distributed under the MIT License.
+## Getting Started
 
-## Contributor.
- 
-- Peter robert Ndungu <https://github.com/peterrobert>
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
+
+👤 **Author1**
+
+- Github: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+
+👤 **Author2**
+
+- Github: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License

@@ -6,7 +6,7 @@ linters:
 
 files:
     ignore:
-        - 'font/*'
+        - 'fonts/*'
 
 
 # PLEASE DO NOT enable auto fixing options

@@ -1,180 +1,180 @@
-  body {
-    margin: 0;
-  }
-  
-  ul {
-    list-style: none;
-  }
-  
-  a {
-    color: #fff;
-    text-decoration: none;
-  }
-  
-  .apple-main {
-    background-image: url("images/main.jpg");
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 590px;
-    background-position: center;
-    background-size: cover;
-    position: relative;
-    margin-top: -5px;
-  }
-  
-  .main-navigation {
-    position: relative;
-    top: 50px;
-  }
-  
-  .main-navigation ul {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    margin-top: 5px;
-  }
-  
-  .main-navigation ul li {
-    box-shadow: 0 1px 2px rgb(0, 0, 0, 0.3);
-    padding-left: 35px;
-    padding-right: 35px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-transform: capitalize;
-    background-image: linear-gradient(#797474, #5c5c5c);
-    color: #fff;
-    border-left: 2px solid #5c5c5c;
-    cursor: pointer;
-    font-family: 'Ubuntu', sans-serif;
-  }
-  
-  .main-navigation ul li:hover {
-    background: #404040;
-  }
-  
-  .main-navigation ul li:last-child {
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  
-  .main-navigation ul li:first-child {
-    border: none;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-  }
-  
-  .main-navigation ul li:last-child input {
-    border-radius: 20px;
-    border: #5c5c5c solid 1px;
-    width: 100px;
-    background-color: #847f7f;
-  }
-  
-  .main-navigation ul li:last-child i {
-    position: absolute;
-    font-size: 14px;
-    padding-left: 10px;
-    padding-top: 2px;
-  }
-  
-  .main-body {
-    display: flex;
-    justify-content: center;
-    margin-top: 70px;
-  }
-  
-  .main-body h1 {
-    text-align: center;
-    color: #fff;
-    font-weight: 200;
-    font-size: 3.5em;
-    font-family: 'Poiret One', cursive;
-  }
-  
-  .main-body h2 {
-    left: 15%;
-    width: 70%;
-    text-align: center;
-    position: relative;
-    font-size: 2em;
-    color: #fff;
-    font-weight: 200;
-    font-family: 'Poiret One', cursive;
-    text-transform: capitalize;
-  }
-  
-  .main-body h3 {
-    margin-top: 50px;
-    text-align: center;
-    font-size: 1.5em;
-    color: #fff;
-    font-weight: 200;
-    font-family: 'Poiret One', cursive;
-    text-transform: capitalize;
-  }
-  
-  .footer-images {
-    position: relative;
-    margin-left: 0;
-    margin-left: 0;
-    width: 100%;
-    padding: 0;
-    margin-top: -14px;
-  }
-  
-  .footer-images ul {
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    flex-wrap: nowrap;
-  }
-  
-  .footer-images li {
-    padding-right: 2px;
-    width: 25%;
-  }
-  
-  .footer-images li img {
-    width: 100%;
-    height: 190px;
-  }
-  
-  .footer-details {
-    display: flex;
-    width: 100%;
-  }
-  
-  .shop-online {
-    padding-left: 100px;
-    width: 50%;
-    font-family: 'Ubuntu', sans-serif;
-  }
-  
-  .footer-navigation {
-    width: 50%;
-  }
-  
-  .footer-navigation ul {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-  }
-  
-  .footer-navigation a {
-    color: blue;
-    text-transform: capitalize;
-    padding-left: 4px;
-    padding-right: 4px;
-    border-right: 1px solid #000;
-    font-size: 12px;
-    font-family: 'Ubuntu', sans-serif;
-  }
-  
-  .footer-navigation img {
-    padding-left: 4px;
-    padding-right: 4px;
-  }
+body {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.apple-main {
+  background-image: url("images/main.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 590px;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin-top: -5px;
+}
+
+.main-navigation {
+  position: relative;
+  top: 50px;
+}
+
+.main-navigation ul {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin-top: 5px;
+}
+
+.main-navigation ul li {
+  box-shadow: 0 1px 2px rgb(0, 0, 0, 0.3);
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-transform: capitalize;
+  background-image: linear-gradient(#797474, #5c5c5c);
+  color: #fff;
+  border-left: 2px solid #5c5c5c;
+  cursor: pointer;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.main-navigation ul li:hover {
+  background: #404040;
+}
+
+.main-navigation ul li:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.main-navigation ul li:first-child {
+  border: none;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.main-navigation ul li:last-child input {
+  border-radius: 20px;
+  border: #5c5c5c solid 1px;
+  width: 100px;
+  background-color: #847f7f;
+}
+
+.main-navigation ul li:last-child i {
+  position: absolute;
+  font-size: 14px;
+  padding-left: 10px;
+  padding-top: 2px;
+}
+
+.main-body {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.main-body h1 {
+  text-align: center;
+  color: #fff;
+  font-weight: 200;
+  font-size: 3.5em;
+  font-family: "Poiret One", cursive;
+}
+
+.main-body h2 {
+  left: 15%;
+  width: 70%;
+  text-align: center;
+  position: relative;
+  font-size: 2em;
+  color: #fff;
+  font-weight: 200;
+  font-family: "Poiret One", cursive;
+  text-transform: capitalize;
+}
+
+.main-body h3 {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 1.5em;
+  color: #fff;
+  font-weight: 200;
+  font-family: "Poiret One", cursive;
+  text-transform: capitalize;
+}
+
+.footer-images {
+  position: relative;
+  margin-left: 0;
+  margin-left: 0;
+  width: 100%;
+  padding: 0;
+  margin-top: -14px;
+}
+
+.footer-images ul {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.footer-images li {
+  padding-right: 2px;
+  width: 25%;
+}
+
+.footer-images li img {
+  width: 100%;
+  height: 190px;
+}
+
+.footer-details {
+  display: flex;
+  width: 100%;
+}
+
+.shop-online {
+  padding-left: 100px;
+  width: 50%;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.footer-navigation {
+  width: 50%;
+}
+
+.footer-navigation ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.footer-navigation a {
+  color: blue;
+  text-transform: capitalize;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-right: 1px solid #000;
+  font-size: 12px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.footer-navigation img {
+  padding-left: 4px;
+  padding-right: 4px;
+}

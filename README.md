@@ -24,7 +24,7 @@ Download or clone this repository to your machine.
 
 ### Usage
 Navigate to the project folder and open the index.html file in your favorite browser.
-You can also open it your favorite code editor and make changes as you wish.
+You can also open it on your favorite code editor and make changes as you wish.
 
 ## Authors
 

@@ -17,40 +17,22 @@ The project is created using flex box.
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
-
-### Install
+Download or clone this repository to your machine.
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+Navigate to the project folder and open the index.html file in your favorite browser.
+You can also open it your favorite code editor and make changes as you wish.
 
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@peterrobert](https://github.com/peterrobert)
+- Twitter: [@ptahwambui93](https://twitter.com/Ptahwambui93)
+- Linkedin: [peter robert ndungu](https://www.linkedin.com/in/peter-rob-ndungu/)
 
 ## 🤝 Contributing
 
@@ -69,3 +51,4 @@ Give a ⭐️ if you like this project!
 - etc
 
 ## 📝 License
+MIT

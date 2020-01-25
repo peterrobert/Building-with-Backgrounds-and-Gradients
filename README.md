@@ -13,7 +13,7 @@ The project is created using flex box.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/peterrobert/Building-with-Backgrounds-and-Gradients/7ead3c77baa5586668696d4ceee906d9bfd61b88/index.html)
+[Live Demo Link](https://rawcdn.githack.com/peterrobert/Building-with-Backgrounds-and-Gradients/a9663d4d44eb8ca7ce0775a83c6945f1824f07ab/index.html)
 
 
 ## Getting Started

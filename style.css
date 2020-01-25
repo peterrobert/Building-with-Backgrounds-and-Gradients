@@ -47,7 +47,7 @@ a {
   padding-top: 10px;
   padding-bottom: 10px;
   text-transform: capitalize;
-  background-image: linear-gradient(#333, #5c5c5c);
+  background-image: linear-gradient(#9c9c9c 20%, #5c5c5c, #4c4c4c);
   color: #fff;
   border-left: 1px solid #5c5c5c;
   cursor: pointer;
@@ -55,7 +55,7 @@ a {
 }
 
 .main-navigation ul li:hover {
-  background: #2f2e2e;
+  background-image: radial-gradient(#333, #5c5c5c);
 }
 
 .main-navigation ul li:last-child {
@@ -156,6 +156,15 @@ a {
   padding-left: 100px;
   width: 50%;
   font-family: "Ubuntu", sans-serif;
+}
+
+.shop-online h5 {
+  font-weight: 400;
+  color: #6e6e6e;
+}
+
+.shop-online a {
+  color: blue;
 }
 
 .footer-navigation {

@@ -35,6 +35,11 @@ a {
   margin-top: 5px;
 }
 
+.footer-images li {
+  padding-right: 2px;
+  width: 25%;
+}
+
 .main-navigation ul li {
   box-shadow: 0 1px 2px rgb(0, 0, 0, 0.3);
   padding-left: 35px;
@@ -119,7 +124,6 @@ a {
 .footer-images {
   position: relative;
   margin-left: 0;
-  margin-left: 0;
   width: 100%;
   padding: 0;
   margin-top: -14px;
@@ -133,9 +137,9 @@ a {
   flex-wrap: nowrap;
 }
 
-.footer-images li {
-  padding-right: 2px;
-  width: 25%;
+.footer-navigation img {
+  padding-left: 4px;
+  padding-right: 4px;
 }
 
 .footer-images li img {
@@ -172,9 +176,4 @@ a {
   border-right: 1px solid #000;
   font-size: 12px;
   font-family: "Ubuntu", sans-serif;
-}
-
-.footer-navigation img {
-  padding-left: 4px;
-  padding-right: 4px;
 }
